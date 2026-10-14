@@ -30,7 +30,9 @@ This only reads. It lists every CMS collection with its fields and types. Then o
 - `collection`: the blog collection's exact name.
 - `fields`: frontmatter key → Framer field name. `body` is special: it's the Markdown under the frontmatter.
 
-The names in `blog.config.json` right now are guesses (`Blog`, `Title`, `Content`…) until someone runs `inspect` against the real project.
+`blog.config.json` is mapped to the real `Blog` collection. The body goes into `Section 1`, because the blog has no single body field; its content is split into `Section Title N` / `Section N` pairs.
+
+To read existing posts (also read-only): `npm run export -- 2026-01-01 > posts.json` writes every Blog post published on or after that date, with all its sections as plain text.
 
 ## 2. Write a post
 
