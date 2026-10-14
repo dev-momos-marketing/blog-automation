@@ -1,0 +1,1170 @@
+{
+  "id": "sQC_iXH1Q",
+  "slug": "restaurant-guest-experience",
+  "fieldData": {
+    "MNI4wejMU": {
+      "type": "string",
+      "value": "Restaurant Guest Experience: Definition, Trends, Best Practices",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Expérience client au restaurant : définition, tendances et meilleures pratiques",
+          "lastEdited": 1787562124691,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Experiencia del cliente en restaurantes: definición, tendencias y mejores prácticas",
+          "lastEdited": 1787562124775,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "レストランのお客様体験（ゲストエクスペリエンス）とは？最新トレンドとベストプラクティスを解説",
+          "lastEdited": 1787562124981,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "BeFKtaIcX": {
+      "type": "string",
+      "value": "Guest Experience in restaurants is the sum total of how someone feels at every point of interacting with your restaurant as a guest. Little moments of positive interactions throughout the guest experience journey can quickly stack up into a positive reputation for your business.",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "L’expérience client dans les restaurants correspond à la somme de ce qu’une personne ressent à chaque point de contact avec votre restaurant en tant que client. De petits moments d’interactions positives tout au long du parcours client peuvent rapidement s’accumuler et contribuer à bâtir une réputation positive pour votre entreprise.",
+          "lastEdited": 1776854363892,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "La experiencia del cliente en los restaurantes es la suma total de cómo se siente una persona en cada punto de interacción con tu restaurante como cliente. Los pequeños momentos de interacciones positivas a lo largo del recorrido de la experiencia del cliente pueden acumularse rápidamente y generar una reputación positiva para tu negocio.",
+          "lastEdited": 1776846694734,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "レストランにおけるゲストエクスペリエンスとは、お客様が貴店と接するあらゆる場面で、どのように感じるかを総合した体験のことです。ゲストエクスペリエンスの流れの中で生まれる小さな前向きなやり取りも、積み重なれば、貴店の評判をすぐに高める力になります。",
+          "lastEdited": 1778754912791,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "bnUwFmClp": {
+      "type": "enum",
+      "value": "Vincent Nguyen"
+    },
+    "b2o5HH_yA": {
+      "type": "date",
+      "value": "2026-02-13T00:00:00.000Z"
+    },
+    "hsU8QEJMN": {
+      "type": "date",
+      "value": "2026-09-28T00:00:00.000Z"
+    },
+    "TkBOsnWkK": {
+      "type": "boolean",
+      "value": false
+    },
+    "wNvitiOoR": {
+      "type": "enum",
+      "value": "Restaurant Marketing"
+    },
+    "v87NK7UOe": {
+      "type": "image",
+      "value": {
+        "id": "jXxwI9xDWQXaXyQ7CbcMeEYwYY.png",
+        "url": "https://framerusercontent.com/images/jXxwI9xDWQXaXyQ7CbcMeEYwYY.png",
+        "thumbnailUrl": "https://framerusercontent.com/images/jXxwI9xDWQXaXyQ7CbcMeEYwYY.png?scale-down-to=512",
+        "altText": "Featured image for the article about Guest Experience and how to manage Guest Experience for Restaurants",
+        "resolution": "auto"
+      }
+    },
+    "uWb4TXEFU": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "T5Nfjwoyl": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">Having helped ~700 global restaurant franchises deliver world-class guest experience, my team at Momos can confidently say that <em>guest experience </em>is the #1 success metric for Restaurant owners and managers.</p><p dir=\"ltr\">Every single interaction a guest has with your business impacts their overall experience. Every moment matters.</p><p dir=\"ltr\">So, to manage guest experience is to manage the perception of your brand, and ultimately, your revenue.</p><p dir=\"auto\">In this article, we'll draw from the experiences of the Momos team to share with you:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>What makes a good Guest Experience?</p></li><li data-preset-tag=\"p\"><p>The 9-stage Guest Experience Journey</p></li><li data-preset-tag=\"p\"><p>Best practices for Guest Experience Management</p></li><li data-preset-tag=\"p\"><p>How can we improve and personalize the guest experience</p></li><li data-preset-tag=\"p\"><p>Questions you can include in your Guest Experience Surveys</p></li><li data-preset-tag=\"p\"><p>Best Guest Experience Management Software you should explore</p></li></ul><p dir=\"auto\">Let's dive right in!</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Ayant aidé environ 700 franchises de restaurants mondiales à offrir une expérience client de classe mondiale, mon équipe chez Momos peut affirmer avec certitude que l'<em>expérience client</em> est la mesure de réussite numéro un pour les propriétaires et gérants de restaurants.</p><p dir=\"ltr\">Chaque interaction d'un client avec votre entreprise a un impact sur son expérience globale. Chaque instant compte.</p><p dir=\"ltr\">Ainsi, gérer l'expérience client revient à gérer la perception de votre marque et, en fin de compte, vos revenus.</p><p dir=\"auto\">Dans cet article, nous nous inspirerons des expériences de l'équipe de Momos pour partager avec vous :</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Qu'est-ce qui fait une bonne expérience client?</p></li><li data-preset-tag=\"p\"><p>Le parcours d'expérience client en 9 étapes</p></li><li data-preset-tag=\"p\"><p>Les meilleures pratiques pour la gestion de l'expérience client</p></li><li data-preset-tag=\"p\"><p>Comment pouvons-nous améliorer et personnaliser l'expérience client</p></li><li data-preset-tag=\"p\"><p>Des questions que vous pouvez inclure dans vos sondages sur l'expérience client</p></li><li data-preset-tag=\"p\"><p>Les meilleurs logiciels de gestion de l'expérience client à explorer</p></li></ul><p dir=\"auto\">Plongeons dans le vif du sujet!</p>",
+          "lastEdited": 1784192623681,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">Habiendo ayudado a unas 700 franquicias globales de restauración a ofrecer una experiencia del cliente de primera clase, mi equipo en Momos puede decir con total confianza que la <em>experiencia del cliente</em> es la métrica de éxito número uno para los propietarios y gerentes de restaurantes.</p><p dir=\"ltr\">Cada interacción que un cliente tiene con su negocio influye en su experiencia general. Cada momento cuenta.</p><p dir=\"ltr\">Por tanto, gestionar la experiencia del cliente es gestionar la percepción de su marca y, en última instancia, sus ingresos.</p><p dir=\"auto\">In este artículo, nos basaremos en las experiencias del equipo de Momos para compartir con usted:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>¿Qué define una buena experiencia del cliente?</p></li><li data-preset-tag=\"p\"><p>Las 9 etapas del recorrido de la experiencia del cliente</p></li><li data-preset-tag=\"p\"><p>Mejores prácticas para la gestión de la experiencia del cliente</p></li><li data-preset-tag=\"p\"><p>Cómo podemos mejorar y personalizar la experiencia del cliente</p></li><li data-preset-tag=\"p\"><p>Preguntas que puede incluir en sus encuestas de experiencia del cliente</p></li><li data-preset-tag=\"p\"><p>El mejor software de gestión de la experiencia del cliente que debería explorar</p></li></ul><p dir=\"auto\">¡Comencemos!</p>",
+          "lastEdited": 1784192623950,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">これまで世界約700店舗の飲食店フランチャイズにおける最高峰の顧客体験づくりを支援してきたMomosのチーム一同、自信を持って言えることがあります。それは、飲食店のオーナーやマネージャーにとって、<em>「顧客体験（ゲストエクスペリエンス）」</em>こそが最も重要な成功指標であるということです。</p><p dir=\"ltr\">お客様と貴社とのあらゆる接点の一つひとつが、店舗での全体的な印象を左右します。すべての瞬間が極めて重要な意味を持つのです。</p><p dir=\"ltr\">つまり、顧客体験をマネジメントすることは、ブランドイメージの向上、ひいては最終的な売上の向上に直結します。</p><p dir=\"auto\">本記事では、Momosチームが培ってきたこれまでの経験やノウハウをもとに、以下の内容について分かりやすく解説します。</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>優れた顧客体験（ゲストエクスペリエンス）を構成する要素とは？</p></li><li data-preset-tag=\"p\"><p>顧客体験における9つのジャーニーステージ</p></li><li data-preset-tag=\"p\"><p>顧客体験マネジメント（GX管理）におけるベストプラクティス</p></li><li data-preset-tag=\"p\"><p>顧客体験を向上させ、パーソナライズ化する方法</p></li><li data-preset-tag=\"p\"><p>顧客アンケートに盛り込むべき質問項目</p></li><li data-preset-tag=\"p\"><p>おすすめの顧客体験マネジメントツール</p></li></ul><p dir=\"auto\">それでは、さっそく詳しく見ていきましょう！</p>",
+          "lastEdited": 1784192623901,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "qPzUoTijx": {
+      "type": "string",
+      "value": "Why Does Good Guest Experience Deliver More Revenue?",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Pourquoi une bonne expérience client génère-t-elle plus de revenus ?",
+          "lastEdited": 1791970139021,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "¿Por qué una buena experiencia del huésped genera más ingresos?",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "良いゲスト体験が、より多くの収益につながるのはなぜでしょうか？",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "ecrhUdA5o": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">A good guest experience has a rippling impact on all levels of your restaurant, from your brand reputation to the bottom line.</p><p dir=\"ltr\">Here’s why:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Increase revenue:</strong> We all know the restaurant industry has razor-thin margins. You must seize every opportunity to increase revenue. Unsurprisingly, content customers are more willing to open their wallets. <a href=\"https://hbr.org/2014/08/the-value-of-customer-experience-quantified\">Harvard Business Review</a> found that customers with the best past experiences spend 140% more than those with the worst.</p></li><li data-preset-tag=\"p\"><p><strong>Boost repeat business and customer loyalty:</strong> According to a study by the <a href=\"https://experiencematters.wordpress.com/2program/\">Temkin Group</a>, loyal customers are 5x more likely to repurchase, 4x more likely to refer your restaurant to others, and 7x more likely to forgive a mistake.</p></li><li data-preset-tag=\"p\"><p><strong>Boost positive reviews and enhance reputation:</strong> 98% of guests read online reviews for local businesses, according to the <a href=\"https://www.brightlocal.com/research/local-consumer-review-survey/\">Local Consumer Survey from BrightLocal</a>. Online reviews are the online reputation of your brand, so you need to manage them carefully.</p></li><li data-preset-tag=\"p\"><p><strong>Get ahead of the competition:</strong> The restaurant industry is notoriously cutthroat. An enjoyable and unique experience for customers will stimulate repeat visits and increase the cost-per-order for loyal customers.</p></li><li data-preset-tag=\"p\"><p><strong>Save on costs:</strong> Once your restaurant is known for its exceptional customer experience, it may start to sell itself through online reviews and word-of-mouth. Once customers become organic promoters, you likely won't need to invest as heavily in marketing and advertising, allowing you to reallocate funds to other areas or reduce costs.</p></li></ol>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Une bonne expérience client a un effet d'entraînement à tous les niveaux de votre restaurant, de la réputation de votre marque à votre rentabilité.</p><p dir=\"ltr\">Voici pourquoi :</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Augmenter les revenus :</strong> Nous savons tous que le secteur de la restauration a des marges extrêmement serrées. Vous devez saisir chaque occasion d'augmenter vos revenus. Sans surprise, les clients satisfaits sont plus enclins à ouvrir leur portefeuille. La <a href=\"https://hbr.org/2014/08/the-value-of-customer-experience-quantified\">Harvard Business Review</a> a révélé que les clients ayant eu les meilleures expériences passées dépensent 140 % de plus que ceux ayant eu les pires.</p></li><li data-preset-tag=\"p\"><p><strong>Stimuler la fidélité des clients et les visites répétées :</strong> Selon une étude du <a href=\"https://experiencematters.wordpress.com/2program/\">Temkin Group</a>, les clients fidèles sont 5 fois plus susceptibles d'acheter à nouveau, 4 fois plus susceptibles de recommander votre restaurant à d'autres, et 7 fois plus susceptibles de pardonner une erreur.</p></li><li data-preset-tag=\"p\"><p><strong>Favoriser les avis positifs et améliorer la réputation :</strong> Selon le <a href=\"https://www.brightlocal.com/research/local-consumer-review-survey/\">Local Consumer Review Survey de BrightLocal</a>, 98 % des clients lisent les avis en ligne sur les commerces locaux. Les avis en ligne constituent la réputation virtuelle de votre marque, vous devez donc les gérer avec soin.</p></li><li data-preset-tag=\"p\"><p><strong>Devancer la concurrence :</strong> Le secteur de la restauration est réputé pour être féroce. Une expérience agréable et unique pour les clients stimulera les visites répétées et augmentera la valeur moyenne des commandes pour les clients fidèles.</p></li><li data-preset-tag=\"p\"><p><strong>Réduire les coûts :</strong> Une fois que votre restaurant est reconnu pour son expérience client exceptionnelle, il peut commencer à se vendre de lui-même grâce aux avis en ligne et au bouche-à-oreille. Lorsque les clients deviennent des promoteurs organiques, vous n'aurez probablement plus besoin d'investir autant dans le marketing et la publicité, ce qui vous permettra de réaffecter ces fonds à d'autres secteurs ou de réduire vos coûts.</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">Una buena experiencia de los clientes tiene un impacto dominó en todos los niveles de su restaurante, desde la reputación de su marca hasta los resultados financieros.</p><p dir=\"ltr\">Estas son las razones:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Aumento de los ingresos:</strong> Todos sabemos que el sector de la restauración tiene unos márgenes extremadamente reducidos. Debe aprovechar cada oportunidad para aumentar los ingresos. No es de extrañar que los clientes satisfechos estén más dispuestos a abrir sus carteras. <a href=\"https://hbr.org/2014/08/the-value-of-customer-experience-quantified\">Harvard Business Review</a> descubrió que los clientes con las mejores experiencias previas gastan un 140 % más que aquellos con las peores.</p></li><li data-preset-tag=\"p\"><p><strong>Impulso de las visitas repetidas y la fidelidad de los clientes:</strong> Según un estudio del <a href=\"https://experiencematters.wordpress.com/2program/\">Temkin Group</a>, los clientes fieles tienen 5 veces más probabilidades de volver a comprar, 4 veces más de recomendar su restaurante a otros y 7 veces más de perdonar un error.</p></li><li data-preset-tag=\"p\"><p><strong>Aumento de las reseñas positivas y mejora de la reputación:</strong> El 98 % de los clientes leen reseñas en línea de negocios locales, según la <a href=\"https://www.brightlocal.com/research/local-consumer-review-survey/\">Encuesta de Consumo Local de BrightLocal</a>. Las opiniones en línea son la reputación en línea de su marca, por lo que debe gestionarlas con cuidado.</p></li><li data-preset-tag=\"p\"><p><strong>Ventaja frente a la competencia:</strong> El sector de la restauración es notoriamente competitivo. Una experiencia agradable y única para los clientes estimulará las visitas repetidas y aumentará el coste por pedido de los clientes fieles.</p></li><li data-preset-tag=\"p\"><p><strong>Ahorro de costes:</strong> Una vez que su restaurante sea conocido por su excepcional experiencia del cliente, puede empezar a venderse por sí mismo a través de las opiniones en línea y el boca a boca. Cuando los clientes se convierten en promotores orgánicos, es probable que no necesite invertir tanto en marketing y publicidad, lo que le permitirá reasignar fondos a otras áreas o reducir costes.</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">優れた顧客体験は、ブランドの評判から最終的な収益に至るまで、飲食店のあらゆるレベルに好影響をもたらします。</p><p dir=\"ltr\">その理由は以下の通りです。</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>売上の向上：</strong> 飲食業界の利益率が極めて低いことは周知の事実であり、売上を伸ばすあらゆる機会を逃すわけにはいきません。当然ながら、満足度の高いお客様ほど、財布の紐が緩みやすくなります。<a href=\"https://hbr.org/2014/08/the-value-of-customer-experience-quantified\">Harvard Business Review</a>の調査によると、過去に素晴らしい体験をしたお客様は、そうでないお客様に比べて、消費額が140%も多いことが分かっています。</p></li><li data-preset-tag=\"p\"><p><strong>リピーターとロイヤリティの向上：</strong> <a href=\"https://experiencematters.wordpress.com/2program/\">Temkin Group</a>の調査によると、ロイヤリティの高いお客様は、リピートする確率が5倍、他人に店舗を勧めてくれる確率が4倍、何らかの手違いがあったとしても許してくれる確率が7倍高いとされています。</p></li><li data-preset-tag=\"p\"><p><strong>好意的なレビューの増加と評判の向上：</strong> <a href=\"https://www.brightlocal.com/research/local-consumer-review-survey/\">BrightLocalのローカル消費者調査</a>によると、実に98%のお客様が地元の飲食店のオンラインレビューを閲覧しています。オンラインレビューはブランドのネット上での評判そのものであるため、慎重に管理する必要があります。</p></li><li data-preset-tag=\"p\"><p><strong>競合他社の一歩先へ：</strong> 飲食業界の競争が極めて激しいのは言うまでもありません。お客様に楽しくユニークな体験を提供することは、リピート入店を促し、ロイヤルカスタマーの客単価を上げる起爆剤になります。</p></li><li data-preset-tag=\"p\"><p><strong>コストの削減：</strong> 素晴らしい顧客体験を提供する店舗として認知されれば、オンラインでのレビューや口コミによって、自然と集客ができるようになります。お客様が自発的な宣伝担当者になってくれれば、マーケティングや広告に多額の投資を行う必要がなくなるため、その分の予算を他の分野に回したり、経費を削減したりすることが可能になります。</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "Lq68UEOiu": {
+      "type": "string",
+      "value": "What is Guest Experience?",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Qu’est-ce que l’expérience client ?",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "¿Qué es la experiencia del huésped?",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "お客様体験とは何ですか？",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "ppRxzTF0C": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">Guest Experience in the restaurant industry is the sum total of how someone feels at every point of interacting with and using your service.</p><p dir=\"auto\">A restaurant doesn't really sell food. It sells the <strong>experience</strong> of the food. Therefore, you should think of guest experience in restaurants as consisting of two parts:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>The product experience:</strong> The food itself, including taste, presentation, consistency, portion, and how it meets guest expectations.</p></li><li data-preset-tag=\"p\"><p><strong>The human experience:</strong> Everything around the food, including service, atmosphere, timing, comfort, and how the guest feels while eating it.</p></li></ol><p dir=\"auto\">To deliver a good guest experience, restaurants need to go beyond making just good food. They also need to make sure that the environment in which that food experience takes place is world-class.</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">L'expérience client dans le secteur de la restauration est la somme totale de ce qu'une personne ressent à chaque étape de son interaction et de son utilisation de votre service.</p><p dir=\"auto\">Un restaurant ne vend pas vraiment de nourriture. Il vend l'<strong>expérience</strong> de la nourriture. Par conséquent, vous devriez concevoir l'expérience client dans les restaurants comme étant composée de deux parties :</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>L'expérience produit :</strong> La nourriture elle-même, y compris le goût, la présentation, la cohérence, la portion et la manière dont elle répond aux attentes des clients.</p></li><li data-preset-tag=\"p\"><p><strong>L'expérience humaine :</strong> Tout ce qui entoure la nourriture, y compris le service, l'atmosphère, le moment opportun, le confort et ce que ressent le client pendant qu'il la consomme.</p></li></ol><p dir=\"auto\">Pour offrir une bonne expérience client, la restauration doit aller au-delà de la simple préparation de bons plats. Elle doit également s'assurer que l'environnement dans lequel se déroule cette expérience culinaire est de premier ordre.</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">La experiencia del cliente en el sector de la restauración es la suma total de cómo se siente alguien en cada punto de interacción y uso de su servicio.</p><p dir=\"auto\">Un restaurante en realidad no vende comida. Vende la <strong>experiencia</strong> de la comida. Por lo tanto, debe pensar en la experiencia del cliente en los restaurantes como algo que consta de dos partes:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>La experiencia del producto:</strong> La comida en sí, incluyendo el sabor, la presentación, la consistencia, la porción y cómo cumple con las expectativas del cliente.</p></li><li data-preset-tag=\"p\"><p><strong>La experiencia humana:</strong> Todo lo que rodea a la comida, incluyendo el servicio, el ambiente, los tiempos, la comodidad y cómo se siente el cliente mientras la consume.</p></li></ol><p dir=\"auto\">To deliver a good guest experience, restaurants need to go beyond making just good food. They also need to make sure that the environment in which that food experience takes place is world-class.</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">飲食業界における「ゲストエクスペリエンス（顧客体験）」とは、お客様が貴店のサービスを利用し、関わるすべての接点において抱く感情の総和を指します。</p><p dir=\"auto\">飲食店が実際に提供しているのは、単なる料理ではありません。料理を通じた<strong>「体験」</strong>を提供しているのです。そのため、飲食店におけるゲストエクスペリエンスは、次の2つの要素から構成されていると考える必要があります。</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>味や品質の体験（プロダクト体験）：</strong> 味、盛り付け、品質の安定性、ボリューム、そしてお客様の期待にどれだけ応えられているかといった、料理そのものに関する体験。</p></li><li data-preset-tag=\"p\"><p><strong>接客や空間の体験（ヒューマン体験）：</strong> 接客サービス、店内の雰囲気、料理の提供タイミング、居心地の良さ、食事中にお客様がどのように感じているかなど、料理を取り巻くすべての体験。</p></li></ol><p dir=\"auto\">素晴らしいゲストエクスペリエンスを提供するためには、ただ美味しい料理を作るだけでは不十分です。その料理を味わう空間や環境そのものも、一流のものであるよう細部まで整える必要があります。</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "cblCrGjZV": {
+      "type": "string",
+      "value": "Examples of Good Guest Experience at Restaurants",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Exemples d’une bonne expérience client dans les restaurants",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Ejemplos de una buena experiencia del cliente en restaurantes",
+          "lastEdited": 1791970139022,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "レストランにおける良いお客様体験の事例",
+          "lastEdited": 1791970139023,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "N8pV1JElt": {
+      "type": "formattedText",
+      "value": "<h4 dir=\"ltr\">1. McDonald’s Guest Experience</h4><img alt=\"\" src=\"https://framerusercontent.com/images/2BEOKXjf3JTkXMrnqZU5Fvxf6Q.png\"><p dir=\"ltr\">McDonald's is the perfect example of an F&amp;B chain revolutionizing the guest experience by industrializing the fast food experience.</p><p dir=\"ltr\">McDonald's was so successful because it redefined what eating out meant.</p><p dir=\"ltr\">Before McDonald’s, restaurants optimized for ambience; after McDonald's, restaurants are optimized for speed and consistency. That is the unique \"guest experience\" no other restaurants can deliver.</p><p dir=\"ltr\">Here’s how McDonald design their guest experience:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Speed-first:</strong> Every part of their operation is optimized to get food to guests as fast as possible.</p></li><li data-preset-tag=\"p\"><p><strong>Consistency: </strong>The experience feels the same at every location, which creates familiarity no matter where you go around the world.</p></li><li data-preset-tag=\"p\"><p><strong>Low-friction ordering:</strong> Simple menus, affordable pricing, counter service, and drive-thrus all reduce effort for guests.</p></li><li data-preset-tag=\"p\"><p><strong>Predictable outcomes:</strong> Since guests know exactly what they’ll get, there are no surprises and no decision anxiety.</p></li><li data-preset-tag=\"p\"><p><strong>Repeatability at scale:</strong> The experience is systemized so it can be delivered millions of times a day. This also allows McDonald's to expand their franchise so quickly and effortlessly.</p></li></ol><p dir=\"ltr\">In short, the guest experience at McDonald's is centered around efficiency.</p><h4 dir=\"ltr\">2. Sushi Omakase’s Guest Experience</h4><img alt=\"\" src=\"https://framerusercontent.com/images/nJj6sAh9HhbHMF9temmpEaDRmM.png\"><p dir=\"ltr\">Guest experience at a sushi omakase counter is intentionally the opposite of fast food.</p><p dir=\"ltr\">It’s designed more around intimacy and performance.</p><p dir=\"ltr\">In omakase, the food is exquisite, but the real product is trusting the chef and being fully present with their craft. Here’s how Sushi Omakase elevates their guest experience:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>No menu:</strong> Guests trust the chef to choose the course for them. This highlights the chef’s taste and expertise.</p></li><li data-preset-tag=\"p\"><p><strong>Performance-driven</strong>: Chef prepares food directly in front of guests, with minimal distractions to allow for higher focus on the food</p></li><li data-preset-tag=\"p\"><p><strong>Exclusivity</strong>: Limited seats bring a sense of exclusivity to the dining experience. Dishes are only served one at a time, at a slow pace, which adds to the atmosphere.</p></li></ol><p dir=\"ltr\">The guest experience of Sushi Omakase is centered around performance and personal attention.</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<h4 dir=\"ltr\">1. L'expérience client chez McDonald’s</h4><img alt=\"\" src=\"https://framerusercontent.com/images/2BEOKXjf3JTkXMrnqZU5Fvxf6Q.png\"><p dir=\"ltr\">McDonald's est l'exemple parfait d'une chaîne de restauration qui révolutionne l'expérience client en industrialisant l'expérience de la restauration rapide.</p><p dir=\"ltr\">McDonald's a connu un tel succès parce qu'il a redéfini ce que signifiait manger au restaurant.</p><p dir=\"ltr\">Avant McDonald’s, les restaurants optimisaient l'ambiance; après McDonald’s, les restaurants sont optimisés pour la rapidité et la constance. C’est cette « expérience client » unique qu'aucun autre restaurant ne peut offrir.</p><p dir=\"ltr\">Voici comment McDonald’s conçoit son expérience client :</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>La rapidité d'abord :</strong> chaque aspect de leur fonctionnement est optimisé pour servir les clients le plus rapidement possible.</p></li><li data-preset-tag=\"p\"><p><strong>La constance :</strong> l'expérience est identique dans chaque établissement, ce qui crée un sentiment de familiarité, peu importe où vous vous trouvez dans le monde.</p></li><li data-preset-tag=\"p\"><p><strong>Une commande sans friction :</strong> des menus simples, des prix abordables, un service au comptoir et des services au volant réduisent tous les efforts des clients.</p></li><li data-preset-tag=\"p\"><p><strong>Des résultats prévisibles :</strong> comme les clients savent exactement ce qu'ils vont obtenir, il n'y a pas de surprises ni d'anxiété liée à la prise de décision.</p></li><li data-preset-tag=\"p\"><p><strong>Reproductibilité à grande échelle :</strong> l'expérience est systématisée pour pouvoir être offerte des millions de fois par jour. Cela permet également à McDonald's de développer sa franchise très rapidement et sans effort.</p></li></ol><p dir=\"ltr\">En résumé, l'expérience client chez McDonald's est centrée sur l'efficacité.</p><h4 dir=\"ltr\">2. L'expérience client d'un Omakase de sushis</h4><img alt=\"\" src=\"https://framerusercontent.com/images/nJj6sAh9HhbHMF9temmpEaDRmM.png\"><p dir=\"ltr\">L'expérience client à un comptoir d'omakase de sushis est intentionnellement à l'opposé de la restauration rapide.</p><p dir=\"ltr\">Elle est davantage conçue autour de l'intimité et du spectacle.</p><p dir=\"ltr\">Dans un omakase, la nourriture est exquise, mais le véritable produit consiste à faire confiance au chef et à être pleinement présent face à son art. Voici comment l'Omakase de sushis rehausse son expérience client :</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Aucun menu :</strong> les clients font confiance au chef pour choisir la suite de plats pour eux. Cela met en valeur le goût et l'expertise du chef.</p></li><li data-preset-tag=\"p\"><p><strong>Axé sur le spectacle :</strong> le chef prépare les plats directement devant les clients, avec un minimum de distractions pour permettre une plus grande concentration sur la nourriture.</p></li><li data-preset-tag=\"p\"><p><strong>Exclusivité :</strong> le nombre limité de places apporte un sentiment d'exclusivité à l'expérience gastronomique. Les plats sont servis un par un, à un rythme lent, ce qui enrichit l'atmosphère.</p></li></ol><p dir=\"ltr\">L'expérience client de l'Omakase de sushis est centrée sur le spectacle et l'attention personnelle.</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<h4 dir=\"ltr\">1. La experiencia del cliente en McDonald’s</h4><img alt=\"\" src=\"https://framerusercontent.com/images/2BEOKXjf3JTkXMrnqZU5Fvxf6Q.png\"><p dir=\"ltr\">McDonald's es el ejemplo perfecto de una cadena de restauración que ha revolucionado la experiencia del cliente al industrializar la experiencia de la comida rápida.</p><p dir=\"ltr\">McDonald's tuvo tanto éxito porque redefinió lo que significaba comer fuera.</p><p dir=\"ltr\">Antes de McDonald's, los restaurantes optimizaban el ambiente; después de McDonald's, los restaurantes se optimizan para ofrecer rapidez y consistencia. Esa es la \"experiencia del cliente\" única que ningún otro restaurante puede ofrecer.</p><p dir=\"ltr\">Así es como McDonald's diseña su experiencia del cliente:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>La rapidez es lo primero:</strong> cada parte de su operación está optimizada para que la comida llegue a los clientes lo más rápido posible.</p></li><li data-preset-tag=\"p\"><p><strong>Consistencia:</strong> la experiencia es idéntica en cualquier establecimiento, lo que genera familiaridad sin importar a qué parte del mundo vayas.</p></li><li data-preset-tag=\"p\"><p><strong>Pedidos sin fricciones:</strong> los menús sencillos, los precios asequibles, el servicio de mostrador y los carriles para coches (drive-thrus) reducen el esfuerzo de los clientes.</p></li><li data-preset-tag=\"p\"><p><strong>Resultados predecibles:</strong> dado que los clientes saben exactamente lo que van a recibir, no hay sorpresas ni ansiedad a la hora de decidir.</p></li><li data-preset-tag=\"p\"><p><strong>Repetibilidad a escala:</strong> la experiencia está sistematizada para que pueda ofrecerse millones de veces al día. Esto también permite a McDonald's expandir su franquicia de forma muy rápida y sin esfuerzo.</p></li></ol><p dir=\"ltr\">En resumen, la experiencia del cliente en McDonald's se centra en la eficiencia.</p><h4 dir=\"ltr\">2. La experiencia del cliente en el Sushi Omakase</h4><img alt=\"\" src=\"https://framerusercontent.com/images/nJj6sAh9HhbHMF9temmpEaDRmM.png\"><p dir=\"ltr\">La experiencia del cliente en una barra de sushi omakase es, intencionadamente, lo opuesto a la comida rápida.</p><p dir=\"ltr\">Está diseñada en torno a la intimidad y el espectáculo.</p><p dir=\"ltr\">En el omakase, la comida es exquisita, pero el verdadero producto es confiar en el chef y estar plenamente presentes en su arte. Así es como el Sushi Omakase eleva la experiencia de sus clientes:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Sin menú:</strong> los clientes confían en que el chef elija los platos por ellos. Esto destaca el gusto y la maestría del chef.</p></li><li data-preset-tag=\"p\"><p><strong>Orientado al espectáculo:</strong> el chef prepara la comida directamente frente a los comensales, con el mínimo de distracciones para permitir una mayor concentración en el plato.</p></li><li data-preset-tag=\"p\"><p><strong>Exclusividad:</strong> el aforo limitado aporta una sensación de exclusividad a la experiencia gastronómica. Los platos se sirven de uno en uno, a un ritmo lento, lo que contribuye a la atmósfera.</p></li></ol><p dir=\"ltr\">La experiencia del cliente de Sushi Omakase se centra en la puesta en escena y la atención personalizada.</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<h4 dir=\"ltr\">1. McDonald’s（マクドナルド）の顧客体験（ゲストエクスペリエンス）</h4><img alt=\"\" src=\"https://framerusercontent.com/images/2BEOKXjf3JTkXMrnqZU5Fvxf6Q.png\"><p dir=\"ltr\">McDonald’sは、ファストフードの調理工程をシステム化し、飲食業界における顧客体験に革命をもたらした代表的な事例です。</p><p dir=\"ltr\">McDonald’sがこれほどの成功を収めたのは、「外食」の定義そのものを変えたからです。</p><p dir=\"ltr\">それまでの飲食店は店内の雰囲気づくりを最優先していましたが、McDonald’sの登場以降は、スピードと一貫性が最重視されるようになりました。これこそが、他店には真似できない独自の「顧客体験」です。</p><p dir=\"ltr\">McDonald’sは、以下のようなアプローチで顧客体験を設計しています。</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>スピード最優先：</strong>すべての業務オペレーションが、お客様へ最も迅速に商品を提供できるように最適化されています。</p></li><li data-preset-tag=\"p\"><p><strong>一貫したクオリティ：</strong>世界のどこを訪れても同じサービスや味を体験できるため、お客様に確かな安心感をもたらします。</p></li><li data-preset-tag=\"p\"><p><strong>注文時のストレス軽減：</strong>シンプルなメニュー、手頃な価格設定、カウンターでの注文対応、ドライブスルーなどにより、購入の手間を最小限に抑えています。</p></li><li data-preset-tag=\"p\"><p><strong>期待通りのサービス：</strong>どのような商品が提供されるかを事前に把握できるため、期待が裏切られることがなく、メニュー選びで悩むストレスもありません。</p></li><li data-preset-tag=\"p\"><p><strong>大規模な再現性：</strong>1日に何百万回とサービスを提供できるよう体験が仕組み化されています。これが、McDonald’sが国内外で迅速かつ容易にフランチャイズ展開を拡大できた要因でもあります。</p></li></ol><p dir=\"ltr\">手短に言えば、McDonald’sにおける顧客体験の核心は「効率性」にあります。</p><h4 dir=\"ltr\">2. 高級鮨店のおまかせコースにおける顧客体験（ゲストエクスペリエンス）</h4><img alt=\"\" src=\"https://framerusercontent.com/images/nJj6sAh9HhbHMF9temmpEaDRmM.png\"><p dir=\"ltr\">鮨店での「おまかせ」による顧客体験は、ファストフードとは対極に位置するよう意図的に設計されています。</p><p dir=\"ltr\">ここでは、より親密な空間と職人の「パフォーマンス」が体験の中心となります。</p><p dir=\"ltr\">「おまかせ」で提供される鮨が極上であることは言うまでもありませんが、真の価値は職人にすべてを委ね、その職人技を目の前で五感を通して楽しむことにあります。高級鮨店では、以下のような工夫で顧客体験を高めています。</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>あえてメニューをおかない：</strong>お客様はすべてを職人に委ねることで、職人の目利き、こだわり、そして技術の粋を堪能できます。</p></li><li data-preset-tag=\"p\"><p><strong>ライブ感あふれるパフォーマンス：</strong>職人が目の前で一貫ずつ鮨を仕立てます。余計なものを削ぎ落とした空間にすることで、目の前の鮨にいっそう集中できる環境を整えています。</p></li><li data-preset-tag=\"p\"><p><strong>徹底した特別感：</strong>限られた席数のみを用意することで、食事そのものに特別感を演出します。料理は一品ずつ、心地よいタイミングで提供され、そのゆったりとした時間の流れ自体が店の雰囲気となっています。</p></li></ol><p dir=\"ltr\">「おまかせ」という体験の核心は、職人のパフォーマンスと、お客様一人ひとりに寄り添う細やかなおもてなしにあります。</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "jn0IAgEpu": {
+      "type": "string",
+      "value": "9 Stages Of The Guest Experience Journey",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "9 étapes du parcours de l’expérience client",
+          "lastEdited": 1791970139023,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "9 etapas del recorrido de la experiencia del huésped",
+          "lastEdited": 1791970139023,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "お客様体験の9つの段階",
+          "lastEdited": 1791970139023,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "ouZVjLF7D": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">You should look at guest experience as a continuous journey, which usually consists of nine stages:</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Vous devriez considérer l'expérience client comme un parcours continu, qui comprend généralement neuf étapes :</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">Deberías considerar la experiencia del huésped como un proceso continuo, que suele constar de nueve etapas:</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">ゲスト体験は、通常9つの段階から成る一連の流れとして捉えるとよいでしょう。</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "fCmwjCc_H": {
+      "type": "string",
+      "value": "Factors That Affect Restaurant Guest Experience",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Facteurs qui influencent l'expérience client au restaurant",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Factores que afectan a la experiencia del cliente en un restaurante",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "飲食店の顧客体験（ゲストエクスペリエンス）を左右する要因について",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "CdvpMpqbY": {
+      "type": "formattedText",
+      "value": "<p dir=\"auto\">You can also think of Guest Experience as a combination of the Product Experience vs the Human Experience:</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"auto\">Vous pouvez aussi considérer l’expérience client comme une combinaison de l’expérience produit et de l’expérience humaine :</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"auto\">También puedes considerar la experiencia del huésped como una combinación de la experiencia del producto frente a la experiencia humana:</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"auto\">ゲスト体験は、プロダクトによる体験と人による体験を組み合わせたものと捉えることもできます。</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "Pu4Gphchb": {
+      "type": "string",
+      "value": "Guest Experience Management Best Practices For Restaurants",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Meilleures pratiques de gestion de l'expérience client pour les restaurants",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Mejores prácticas de gestión de la experiencia del cliente para restaurantes",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "飲食店向け 顧客体験（CX）マネジメントのベストプラクティス",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "X3SHHXIuC": {
+      "type": "formattedText",
+      "value": "<p dir=\"auto\">Each restaurant has a different type of guest experience.</p><p dir=\"auto\">Here are four best practices we recommend specifically for QSRs (quick-service restaurant):</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Treat speed + accuracy as the North Star metric:</strong> In most QSRs, guest satisfaction is driven first by how fast and how standardized the experience is. Any new initiative (kiosks, mobile ordering, delivery integrations, upsells) should be evaluated on two questions: \"Did this reduce wait time?\" and \"Did this reduce errors?\"</p></li><li data-preset-tag=\"p\"><p><strong>Embrace AI technology for review responses but keep it human:</strong> AI agents can come in to help you answer customers at scale, but you still need human touch. I think the hybrid approach is the best: use AI for repetitive tasks but bring in your team for where it needs empathy.</p></li><li data-preset-tag=\"p\"><p><strong>Recover fast, generously, and confidently:</strong> Sometimes mistakes are inevitable. Listen to the guest's concerns without interrupting, apologize sincerely, and offer a solution (either a coupon, dessert, or a drink). Good customer recovery technology helps you build loyalty more easily.</p></li><li data-preset-tag=\"p\"><p><strong>Add some personalization:</strong> Sometimes personalization is just little moments like remembering a regular's order, or greeting by name on pickup, or a \"thanks for coming back\" receipt message. It's simple but certainly can leave a strong impression in the customer's heart.</p></li></ol><p dir=\"auto\">Remember, what you consider to be the North Star metric of your guest experience may differ from these. It depends a lot on the type of restaurant you run, your guest preferences, or demographics, etc.</p><p dir=\"auto\">At the end of the day, I still believe that the deepest intention of all restaurants is to make their guests feel \"heard\" throughout the entire journey. From the moment they arrive to the moment they leave, they should feel welcomed, respected, and cared for.</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"auto\">Chaque restaurant propose un type d'expérience client différent.</p><p dir=\"auto\">Voici quatre meilleures pratiques que nous recommandons particulièrement pour les SDR (restaurants à service rapide)&nbsp;:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Considérer la rapidité et la précision comme la métrique ultime&nbsp;:</strong> Dans la plupart des SDR, la satisfaction de la clientèle dépend d'abord de la rapidité et de l'uniformité de l'expérience. Toute nouvelle initiative (bornes, commande mobile, intégration des livraisons, ventes incitatives) devrait être évaluée selon deux questions&nbsp;: «&nbsp;Cela a-t-il réduit le temps d'attente?&nbsp;» et «&nbsp;Cela a-t-il réduit les erreurs?&nbsp;»</p></li><li data-preset-tag=\"p\"><p><strong>Adopter la technologie de l'IA pour répondre aux avis tout en restant humain&nbsp;:</strong> Les agents d'IA peuvent vous aider à répondre aux clients à grande échelle, mais vous avez toujours besoin d'une touche humaine. Je pense que l'approche hybride est la meilleure&nbsp;: utilisez l'IA pour les tâches répétitives, mais faites appel à votre équipe là où l'empathie est nécessaire.</p></li><li data-preset-tag=\"p\"><p><strong>Rattraper le coup rapidement, généreusement et avec assurance&nbsp;:</strong> Parfois, les erreurs sont inévitables. Écoutez les préoccupations du client sans l'interrompre, présentez des excuses sincères et proposez une solution (un coupon, un dessert ou une boisson). Une bonne technologie de récupération de la clientèle vous aide à fidéliser plus facilement.</p></li><li data-preset-tag=\"p\"><p><strong>Ajouter une touche de personnalisation&nbsp;:</strong> Parfois, la personnalisation se résume à de petits détails, comme se souvenir de la commande d'un habitué, saluer par son nom lors de la cueillette ou ajouter un message «&nbsp;Merci de votre visite&nbsp;» sur le reçu. C'est simple, mais cela peut certainement laisser une excellente impression dans le cœur du client.</p></li></ol><p dir=\"auto\">N'oubliez pas que ce que vous considérez comme la métrique ultime de votre expérience client peut différer de celles-ci. Cela dépend beaucoup du type de restaurant que vous dirigez, des préférences de vos clients, de la démographie, etc.</p><p dir=\"auto\">En fin de compte, je crois toujours que l'intention la plus profonde de tous les restaurants est de faire en sorte que leurs clients se sentent «&nbsp;entendus&nbsp;» tout au long de leur parcours. Du moment où ils arrivent jusqu'à celui où ils partent, ils doivent se sentir accueillis, respectés et pris en charge.</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"auto\">Cada restaurante tiene un tipo diferente de experiencia para el cliente.</p><p dir=\"auto\">Aquí hay cuatro mejores prácticas que recomendamos específicamente para los QSR (restaurantes de servicio rápido):</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Tratar la velocidad y la precisión como la métrica estrella:</strong> En la mayoría de los QSR, la satisfacción del cliente se define principalmente por lo rápida y estandarizada que sea la experiencia. Cualquier nueva iniciativa (quioscos, pedidos móviles, integraciones de entrega, ventas adicionales) debe evaluarse según dos preguntas: ¿«Esto redujo el tiempo de espera?» y ¿«Esto redujo los errores?»</p></li><li data-preset-tag=\"p\"><p><strong>Adoptar la tecnología de IA para responder opiniones, pero mantener el toque humano:</strong> Los agentes de IA pueden ayudar a responder a los clientes a gran escala, pero todavía se necesita el toque humano. Creo que el enfoque híbrido es el mejor: utilizar la IA para tareas repetitivas pero involucrar al equipo donde se necesita empatía.</p></li><li data-preset-tag=\"p\"><p><strong>Recuperarse rápido, con generosidad y confianza:</strong> A veces los errores son inevitables. Escuche las inquietudes del cliente sin interrumpir, discúlpese sinceramente y ofrezca una solución (ya sea un cupón, un postre o una bebida). Una buena tecnología de recuperación de clientes le ayuda a fidelizarlos más fácilmente.</p></li><li data-preset-tag=\"p\"><p><strong>Añadir algo de personalización:</strong> A veces, la personalización consiste simplemente en pequeños detalles, como recordar el pedido de un cliente habitual, saludarlo por su nombre al recoger el pedido o un mensaje en el tique que diga «gracias por volver». Es sencillo, pero sin duda puede dejar una fuerte huella en el corazón del cliente.</p></li></ol><p dir=\"auto\">Recuerde que lo que usted considera la métrica estrella de su experiencia de cliente puede diferir de estas. Depende mucho del tipo de restaurante que dirija, de las preferencias de sus clientes, de la demografía, etc.</p><p dir=\"auto\">Al fin y al cabo, sigo creyendo que la intención más profunda de todos los restaurantes es hacer que sus clientes se sientan «escuchados» a lo largo de todo el camino. Desde el momento en que llegan hasta el momento en que se van, deben sentirse bienvenidos, respetados y atendidos.</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"auto\">レストランによって、提供する顧客体験はそれぞれ異なります。</p><p dir=\"auto\">ここでは、特にQSR（クイックサービスレストラン）におすすめしたい4つのベストプラクティスをご紹介します。</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>「迅速さ」と「正確さ」を最優先指標（北極星指標）とする：</strong>多くのQSRにおいて、お客様の満足度を左右する最大の要因は、サービスの早さと標準化された体験です。セルフオーダー端末、モバイルオーダー、デリバリー連携、アップセルなどの新たな取り組みを導入する際は、「これによって待ち時間は短縮されたか？」「ミスは減ったか？」という2つの問いに基づいて評価する必要があります。</p></li><li data-preset-tag=\"p\"><p><strong>クチコミ返信へのAI活用と、温かみのある対応の両立：</strong>AIを活用すれば、膨大なクチコミへの返信を効率化できますが、人間らしさも欠かせません。繰り返しの作業はAIに任せ、共感が必要な対応にはスタッフを充てるという、ハイブリッドなアプローチが最も効果的です。</p></li><li data-preset-tag=\"p\"><p><strong>迅速、寛大、そして頼もしいリカバリー：</strong>時にはミスが避けられないこともあります。まずは途中で遮ることなくお客様の不満に耳を傾け、心から謝罪し、対応策（クーポンや、デザート・ドリンクのサービスなど）を提案しましょう。優れた顧客リカバリーツールを導入すれば、よりスムーズに一見客をリピーターに変えることができます。</p></li><li data-preset-tag=\"p\"><p><strong>ちょっとしたパーソナライズの工夫を：</strong>常連客のお好みの注文を覚えておく、お受け取りの際にお名前でお呼びする、レシートに「またのご来店をお待ちしております」と一言添えるなど、些細な工夫で十分です。シンプルですが、確実にお客様の心に強い印象を残すことができます。</p></li></ol><p dir=\"auto\">もちろん、お客様が目指す顧客体験の最優先指標は、これらとは異なるかもしれません。どのようなレストランを経営しているか、お客様の好み、あるいは客層などによって大きく左右されるからです。</p><p dir=\"auto\">しかし、最終的にすべての飲食店に共通する最も深い想いは、ご来店からお帰りの瞬間まで、すべてプロセスにおいてお客様に「自分の声が届いている」と感じていただくことではないでしょうか。歓迎され、尊重され、大切にされていると実感していただけるようなサービスを目指しましょう。</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "laWUlC8_S": {
+      "type": "string",
+      "value": "How To Improve Guest Experience of Your Restaurant?",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Comment améliorer l'expérience client dans votre restaurant?",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "¿Cómo mejorar la experiencia del cliente en tu restaurante?",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "飲食店の顧客体験（ゲストエクスペリエンス）を向上させるには？",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "Mz60t0FSc": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">Now you understand that Guest Experience is crucial to your business, how do you start to improve it?</p><p dir=\"ltr\">The answer: look at reviews.</p><p dir=\"ltr\">A lot of people leave reviews in emotional moments, for better or worse. What matters is what you learn from the reviews and how you respond to them.</p><p dir=\"auto\">In fact, you can learn so many things about the state of your restaurant just by analyzing guest sentiment in those reviews.</p><p dir=\"ltr\">Here's how to do that:<br><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Audit and unify reviews:</strong> There are probably thousands of reviews to keep track of (if you're a multi-location restaurant or franchise). Have someone periodically checking reviews and filtering out the ones that genuinely provide actionable insights. <a href=\"https://www.momos.com/product/unified-inbox\" target=\"_blank\">A unified inbox</a> helps a lot.</p></li><li data-preset-tag=\"p\"><p><strong>Look for recurring patterns and turn them into actions:</strong> You can't make 100% of people happy, so expect negative reviews once in a while. But if you start seeing multiple reviews flagging the same problems, say, slow service, rude staff, long wait times, that's when action needs to be taken. You can leverage <a href=\"https://www.momos.com/blog/best-ai-for-restaurants\" target=\"_blank\">specialized restaurant AI</a> to categorize feedback by theme: service, food, wait time, cleanliness.</p></li><li data-preset-tag=\"p\"><p><strong>Respond quickly with structured, brand-aligned replies:</strong> Every review deserves a reply that feels custom and aligns with your brand personality. To keep up with volume without sacrificing quality, use AI to assist with response drafting and automate where it makes sense.</p></li><li data-preset-tag=\"p\"><p><strong>Run special events and promotions:</strong> Once you've established a consistently strong guest experience, layer in themed promotions, events, and community engagement to add variety. This gives regulars a reason to come back and attracts new guests. Loyalty programs are a great way to keep repeat visits feeling fresh.</p></li><li data-preset-tag=\"p\"><p><strong>Make your restaurant a great place to work:</strong> Treat your staff well and they're far more likely to act as advocates for your restaurant. A positive employee experience creates a positive guest experience. Happiness is contagious.</p></li></ol>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Maintenant que vous comprenez que l'expérience client est cruciale pour votre entreprise, comment commencer à l'améliorer?</p><p dir=\"ltr\">La réponse : regardez les avis.</p><p dir=\"ltr\">Beaucoup de gens laissent des avis dans des moments d'émotion, pour le meilleur ou pour le pire. L'important est ce que vous apprenez de ces avis et la façon dont vous y répondez.</p><p dir=\"auto\">En fait, vous pouvez en apprendre énormément sur l'état de votre restaurant simplement en analysant le sentiment des clients dans ces avis.</p><p dir=\"ltr\">Voici comment procéder :<br><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Auditer et unifier les avis :</strong> Il y a probablement des milliers d'avis à suivre (si vous êtes un restaurant multi-succursales ou une franchise). Demandez à quelqu'un de vérifier périodiquement les avis et de filtrer ceux qui fournissent réellement des pistes d'amélioration concrètes. <a href=\"https://www.momos.com/product/unified-inbox\" target=\"_blank\">Une boîte de réception unifiée</a> aide beaucoup.</p></li><li data-preset-tag=\"p\"><p><strong>Rechercher des tendances récurrentes et les transformer en actions :</strong> Vous ne pouvez pas satisfaire 100 % des gens, alors attendez-vous à des avis négatifs de temps en temps. Mais si vous commencez à voir plusieurs avis signalant les mêmes problèmes, par exemple, un service lent, un personnel impoli, de longs temps d'attente, c'est là qu'il faut agir. Vous pouvez tirer parti d'une <a href=\"https://www.momos.com/blog/best-ai-for-restaurants\" target=\"_blank\">IA spécialisée pour la restauration</a> pour catégoriser les commentaires par thème : service, nourriture, temps d'attente, propreté.</p></li><li data-preset-tag=\"p\"><p><strong>Répondre rapidement avec des réponses structurées et adaptées à l'image de marque :</strong> Chaque avis mérite une réponse personnalisée et conforme à la personnalité de votre marque. Pour faire face au volume sans sacrifier la qualité, utilisez l'IA pour vous aider à rédiger des réponses et automatisez ce qui est pertinent.</p></li><li data-preset-tag=\"p\"><p><strong>Organiser des événements spéciaux et des promotions :</strong> Une fois que vous aurez établi une expérience client solide et cohérente, ajoutez des promotions thématiques, des événements et un engagement communautaire pour apporter de la variété. Cela donne aux habitués une raison de revenir et attire de nouveaux clients. Les programmes de fidélité sont un excellent moyen pour que les visites répétées restent stimulantes.</p></li><li data-preset-tag=\"p\"><p><strong>Faire de votre restaurant un endroit agréable où travailler :</strong> Traitez bien votre personnel et il sera beaucoup plus enclin à se faire le défenseur de votre restaurant. Une expérience employé positive crée une expérience client positive. Le bonheur est contagieux.</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">Ahora que comprendes que la experiencia del cliente es crucial para tu negocio, ¿cómo empiezas a mejorarla?</p><p dir=\"ltr\">La respuesta: analiza las opiniones.</p><p dir=\"ltr\">Muchas personas dejan opiniones en momentos de gran emoción, para bien o para mal. Lo que importa es lo que aprendes de esas opiniones y cómo respondes a ellas.</p><p dir=\"auto\">De hecho, puedes aprender muchísimas cosas sobre el estado de tu restaurante con solo analizar el sentimiento de los clientes en esas opiniones.</p><p dir=\"ltr\">Descubre cómo hacerlo:<br><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Audita y unifica las opiniones:</strong> Es probable que haya miles de opiniones de las que hacer un seguimiento (si eres un restaurante con varias ubicaciones o una franquicia). Haz que alguien revise periódicamente las opiniones y filtre aquellas que realmente aporten información útil sobre la que se pueda actuar. <a href=\"https://www.momos.com/product/unified-inbox\" target=\"_blank\">Una bandeja de entrada unificada</a> ayuda mucho.</p></li><li data-preset-tag=\"p\"><p><strong>Busca patrones recurrentes y conviértelos en acciones:</strong> No puedes hacer feliz al 100 % de la gente, así que es de esperar que de vez en cuando recibas opiniones negativas. Pero si empiezas a ver varias opiniones que señalan los mismos problemas (por ejemplo, servicio lento, personal descortés, tiempos de espera prolongados), es el momento de tomar medidas. Puedes aprovechar la <a href=\"https://www.momos.com/blog/best-ai-for-restaurants\" target=\"_blank\">IA especializada en restaurantes</a> para categorizar los comentarios por temas: servicio, comida, tiempo de espera, limpieza.</p></li><li data-preset-tag=\"p\"><p><strong>Responde rápidamente con respuestas estructuradas y alineadas con la marca:</strong> Cada opinión merece una respuesta que se sienta personalizada y se alinee con la personalidad de tu marca. Para mantener el ritmo del volumen sin sacrificar la calidad, utiliza la IA para ayudarte a redactar respuestas y automatizar lo que tenga sentido.</p></li><li data-preset-tag=\"p\"><p><strong>Organiza eventos especiales y promociones:</strong> Una vez que hayas establecido una experiencia del cliente sólida y constante, añade promociones temáticas, eventos y participación comunitaria para aportar variedad. Esto da a los clientes habituales un motivo para volver y atrae a nuevos clientes. Los programas de fidelización son una excelente manera de hacer que las visitas recurrentes se sientan innovadoras.</p></li><li data-preset-tag=\"p\"><p><strong>Haz de tu restaurante un excelente lugar para trabajar:</strong> Trata bien a tu personal y será mucho más probable que actúen como defensores de tu restaurante. Una experiencia de empleado positiva genera una experiencia de cliente positiva. La felicidad es contagiosa.</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">ゲストエクスペリエンス（顧客体験）がビジネスにおいて極めて重要であることはご理解いただけたかと思いますが、では、実際にどのように改善を進めればよいのでしょうか。</p><p dir=\"ltr\">その答えは、「クチコミ」にあります。</p><p dir=\"ltr\">多くのお客様は、良くも悪くも感情が高ぶった瞬間にクチコミを投稿されます。大切なのは、そのクチコミから何を学び、どのように返信するかです。</p><p dir=\"auto\">実際、クチコミに寄せられたお客様の本音や感情を分析するだけで、店舗の現状について驚くほど多くの気づきを得ることができます。</p><p dir=\"ltr\">具体的なアプローチ方法は以下の通りです。<br><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>クチコミの集約と監査：</strong> 複数店舗やフランチャイズを展開している場合、管理すべきクチコミは数千件にのぼることもあります。定期的にクチコミをチェックし、具体的な改善につなげられる有益なフィードバックを抽出する仕組みを整えましょう。その際、すべてのクチコミを1箇所で確認できる<a href=\"https://www.momos.com/product/unified-inbox\" target=\"_blank\">一元管理ツール（インボックス）</a>があると非常に便利です。</p></li><li data-preset-tag=\"p\"><p><strong>共通のパターンを見つけ、具体的なアクションにつなげる：</strong> すべてのお客様を100%満足させることは不可能なため、時にはネガティブなクチコミが書かれることもあります。しかし、「接客が遅い」「スタッフの態度が悪い」「待ち時間が長い」など、同じ問題が複数のクチコミで何度も指摘され始めたら、すぐに対策を講じる必要があります。こうしたフィードバックを接客、料理、待ち時間、清潔さなどのテーマごとに分類する際は、デザインされた<a href=\"https://www.momos.com/blog/best-ai-for-restaurants\" target=\"_blank\">飲食店特化型のAI</a>を活用するとスムーズです。</p></li><li data-preset-tag=\"p\"><p><br class=\"trailing-break\"></p></li><li data-preset-tag=\"p\"><p><strong>ブランドイメージに合わせた心のこもった返信を迅速に返す：</strong> すべてのクチコミに対して、マニュアル通りではない、御社のブランドの個性が伝わる丁寧な返信を返すことが重要です。品質を落とさずに膨大な件数に対応するため、AIによる返信文の下書き作成や、適切な範囲での自動化を取り入れることをお勧めします。</p></li><li data-preset-tag=\"p\"><p><strong>特別なイベントやプロモーションの実施：</strong> 安定して質の高いゲストエクスペリエンスを提供できるようになったら、季節折々のプロモーションやイベント、地域連携への取り組みなどを取り入れて、店舗に変化をもたらしましょう。常連のお客様には再訪する楽しさを提供でき、新規顧客の獲得にもつながります。いつ来ても新鮮な体験ができるようなロイヤルティプログラムの導入も効果的です。</p></li><li data-preset-tag=\"p\"><p><strong>スタッフが働きやすい職場環境をつくる：</strong> スタッフを大切に扱い、働きやすい環境を整えることで、スタッフ自身が自発的に自店の魅力を伝えるアンバサダーとなってくれます。素晴らしい従業員体験（EX）こそが、素晴らしいゲストエクスペリエンス（CX）を生み出します。スタッフの笑顔はお客様へも伝播するものです。</p></li></ol>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "WFemUiZxM": {
+      "type": "string",
+      "value": "Questions To Include In Guest Experience Surveys",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Questions à inclure dans les sondages sur l'expérience des clients",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Preguntas que se deben incluir en las encuestas de experiencia de los huéspedes",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "顧客満足度（CSAT）アンケートに含めるべき質問項目",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "OJZpgVzob": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">A survey is an amazing tool to gauge guest satisfaction.</p><p dir=\"ltr\">One easy way restaurant owners can collect feedback is by offering quick post-order surveys. For in-house, a lot of places have a QR code on the receipt or table that links to a simple survey. For digital orders, surveys are embedded into the flow. A small incentive like a discount on the next visit can really boost responses.</p><p dir=\"ltr\">Your goal is to make the survey as frictionless and intuitive as possible. Ideally it should be done within a few clicks.<br><br class=\"trailing-break\"></p><img alt=\"\" src=\"https://framerusercontent.com/images/0UmNEiAm9jXrUiC1HfRNHtHZPoM.png\"><p dir=\"ltr\">There should also be some conditional logic in your survey form. For example, if your guest left a 4 or 5-star, great; if they left from 1 to 3-star, the form should pop up questions to investigate the reason why and offer discounts if needed.</p><p dir=\"ltr\">Here are some questions we recommend:</p><p dir=\"auto\">How satisfied are you with the overall experience? (1-5 star rating)</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p>How did you place your order? (Custom flow for in-house orders vs online orders)</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the taste of the food?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the temperature of the food?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the accuracy of your order?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the speed of service?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the friendliness &amp; hospitality of the crew?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the cleanliness of the restaurant?</p></li><li data-preset-tag=\"p\"><p>How satisfied are you with the overall price you paid?</p></li><li data-preset-tag=\"p\"><p>Did your order contain a Beverage or Dessert that you personally enjoyed? What is it?</p></li><li data-preset-tag=\"p\"><p>How satisfied were you with the following items? (Specific rating for each item)</p></li><li data-preset-tag=\"p\"><p>How likely are you to order from us in the future?</p></li><li data-preset-tag=\"p\"><p>How easy was it to find and order the items you were looking for on the website/app?</p></li><li data-preset-tag=\"p\"><p>What is the primary reason for your visit? (Friend &amp; family recommendation, Convenience, Advertisement, App, Prior positive experience, or Coupon)</p></li><li data-preset-tag=\"p\"><p>Is it likely for you to return to our restaurant in the next 30 days?</p></li><li data-preset-tag=\"p\"><p>Would you like to enter the sweepstakes?</p></li></ol>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Un sondage est un outil formidable pour évaluer la satisfaction de vos clients.</p><p dir=\"ltr\">Un moyen simple pour les restaurateurs de recueillir des commentaires consiste à proposer de courts sondages après la commande. Sur place, de nombreux établissements affichent sur le reçu ou sur la table un code QR qui renvoie à un sondage simple. Pour les commandes numériques, les sondages sont intégrés au parcours client. Un petit incitatif, comme un rabais sur la prochaine visite, peut grandement stimuler le taux de réponse.</p><p dir=\"ltr\">Votre objectif est de rendre le sondage aussi fluide et intuitif que possible. Idéalement, il devrait être complété en quelques clics.<br><br class=\"trailing-break\"></p><img alt=\"\" src=\"https://framerusercontent.com/images/0UmNEiAm9jXrUiC1HfRNHtHZPoM.png\"><p dir=\"ltr\">Votre formulaire de sondage devrait également intégrer une logique conditionnelle. Par exemple, si votre client attribue une note de 4 ou 5 étoiles, c'est parfait; s'il laisse une note de 1 à 3 étoiles, le formulaire devrait afficher des questions pour en chercher la cause et proposer des rabais si nécessaire.</p><p dir=\"ltr\">Voici quelques questions que nous recommandons :</p><p dir=\"auto\">Quel est votre niveau de satisfaction globale à l'égard de votre expérience? (Évaluation de 1 à 5 étoiles)</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p>Comment avez-vous passé votre commande? (Parcours personnalisé pour les commandes sur place par rapport aux commandes en ligne)</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard du goût de la nourriture?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard de la température de la nourriture?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard de l'exactitude de votre commande?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard de la rapidité du service?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard de l'amabilité et de l'hospitalité du personnel?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard de la propreté du restaurant?</p></li><li data-preset-tag=\"p\"><p>Quel est votre niveau de satisfaction à l'égard du prix total payé?</p></li><li data-preset-tag=\"p\"><p>Votre commande contenait-elle une boisson ou un dessert que vous avez personnellement apprécié? De quoi s'agissait-il?</p></li><li data-preset-tag=\"p\"><p>Quel a été votre niveau de satisfaction pour chacun des articles suivants? (Évaluation spécifique pour chaque article)</p></li><li data-preset-tag=\"p\"><p>Quelle est la probabilité que vous commandiez à nouveau chez nous à l'avenir?</p></li><li data-preset-tag=\"p\"><p>À quel point a-t-il été facile de trouver et de commander les articles que vous recherchiez sur le site Web ou l'application?</p></li><li data-preset-tag=\"p\"><p>Quelle est la principale raison de votre visite? (Recommandation d'amis ou de membres de la famille, commodité, publicité, application, expérience antérieure positive ou coupon-rabais)</p></li><li data-preset-tag=\"p\"><p>Est-il probable que vous reveniez dans notre restaurant au cours des 30 prochains jours?</p></li><li data-preset-tag=\"p\"><p>Souhaitez-vous participer au tirage publicitaire?</p></li></ol>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">Una encuesta es una herramienta increíble para medir la satisfacción de los clientes.</p><p dir=\"ltr\">Una forma sencilla en que los propietarios de restaurantes pueden recopilar comentarios es ofreciendo encuestas rápidas después del pedido. Para el consumo en el establecimiento, muchos lugares tienen un código QR en el ticket o la mesa que enlaza a una encuesta sencilla. Para los pedidos digitales, las encuestas se integran en el proceso. Un pequeño incentivo, como un descuento en la próxima visita, puede aumentar mucho las respuestas.</p><p dir=\"ltr\">Su objetivo es hacer que la encuesta sea lo más fluida e intuitiva posible. Idealmente, debería completarse en unos pocos clics.<br><br class=\"trailing-break\"></p><img alt=\"\" src=\"https://framerusercontent.com/images/0UmNEiAm9jXrUiC1HfRNHtHZPoM.png\"><p dir=\"ltr\">También debería haber cierta lógica condicional en el formulario de la encuesta. Por ejemplo, si el cliente ha dejado una valoración de 4 o 5 estrellas, genial; si ha dejado de 1 a 3 estrellas, en el formulario deberían aparecer preguntas para investigar el motivo y ofrecer descuentos si fuera necesario.</p><p dir=\"ltr\">Estas son algunas de las preguntas que recomendamos:</p><p dir=\"auto\">¿Qué tan satisfecho está con la experiencia general? (Valoración de 1 a 5 estrellas)</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p>¿Cómo realizó su pedido? (Flujo personalizado para pedidos en el establecimiento frente a pedidos en línea)</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con el sabor de la comida?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con la temperatura de la comida?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con la exactitud de su pedido?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con la rapidez del servicio?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con la amabilidad y hospitalidad del personal?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con la limpieza del restaurante?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con el precio total que pagó?</p></li><li data-preset-tag=\"p\"><p>¿Su pedido contenía alguna bebida o postre que haya disfrutado personalmente? ¿Cuál?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan satisfecho está con los siguientes productos? (Valoración específica para cada artículo)</p></li><li data-preset-tag=\"p\"><p>¿Qué tan probable es que vuelva a realizar un pedido con nosotros en el futuro?</p></li><li data-preset-tag=\"p\"><p>¿Qué tan fácil fue encontrar y pedir los artículos que buscaba en el sitio web/aplicación?</p></li><li data-preset-tag=\"p\"><p>¿Cuál es el motivo principal de su visita? (Recomendación de amigos y familiares, Conveniencia, Publicidad, Aplicación, Experiencia positiva anterior o Cupón)</p></li><li data-preset-tag=\"p\"><p>¿Es probable que vuelva a nuestro restaurante en los próximos 30 días?</p></li><li data-preset-tag=\"p\"><p>¿Le gustaría participar en el sorteo?</p></li></ol>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">アンケートは、お客様の満足度を把握するための極めて有効なツールです。</p><p dir=\"ltr\">飲食店のオーナー様が手軽にフィードバックを集める方法として、注文後に簡単なアンケートを実施することが挙げられます。店内飲食の場合、レシートやテーブルの上に簡単なアンケートにつながるQRコードを掲載している店舗が多く見られます。また、ネット注文の場合は、注文の流れの中にアンケートが組み込まれています。次回利用できる割引クーポンなどのちょっとした特典を用意することで、回答率を大幅に向上させることができます。</p><p dir=\"ltr\">目的は、アンケートの負担をできるだけ減らし、直感的に回答できるようにすることです。数回のクリックで完了するのが理想的です。<br><br class=\"trailing-break\"></p><img alt=\"\" src=\"https://framerusercontent.com/images/0UmNEiAm9jXrUiC1HfRNHtHZPoM.png\"><p dir=\"ltr\">また、アンケートフォームには条件分岐ロジックを設定することをおすすめします。たとえば、お客様が星4または5の評価をつけた場合はそのまま終了し、星1から3の評価だった場合には、原因を追究するための質問を表示し、必要に応じて割引の案内を自動で行うといった設定が可能です。</p><p dir=\"ltr\">以下は、おすすめの質問例です。</p><p dir=\"auto\">全体的な体験について、どの程度満足されましたか？（星1〜5の評価）</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p>ご注文はどのように行いましたか？（店内注文とオンライン注文で別の質問を表示）</p></li><li data-preset-tag=\"p\"><p>お料理の味について、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>お料理の温度について、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>ご注文内容の正確さについて、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>サービスの待ち時間（提供スピード）について、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>スタッフの接客や親しみやすさについて、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>店内の清潔さについて、どの程度満足されましたか？</p></li><li data-preset-tag=\"p\"><p>お支払いいただいた価格全体の満足度はどのくらいですか？</p></li><li data-preset-tag=\"p\"><p>ご注文の中に、特にお気に召したドリンクやデザートはございましたか？よろしければ具体的なメニュー名をお聞かせください。</p></li><li data-preset-tag=\"p\"><p>以下のメニューについて、それぞれどの程度満足されましたか？（メニュー別の個別評価）</p></li><li data-preset-tag=\"p\"><p>将来、また当店をご利用いただける可能性はどのくらいありますか？</p></li><li data-preset-tag=\"p\"><p>Webサイトやアプリで、お目当ての商品を見つけて注文するのはスムーズに行えましたか？</p></li><li data-preset-tag=\"p\"><p>今回ご来店（またはご注文）いただいた主な理由は何ですか？（家族や友人からのすすめ、利便性、広告、アプリ、過去の良い体験、クーポンなど）</p></li><li data-preset-tag=\"p\"><p>今後30日以内に、また当店をご利用いただける可能性はありますか？</p></li><li data-preset-tag=\"p\"><p>キャンペーン（抽選）に応募されますか？</p></li></ol>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "S7EvuBfah": {
+      "type": "string",
+      "value": "Recommendations for Best Restaurant Guest Experience Software",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Recommandations pour le meilleur logiciel d’expérience client en restauration",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Recomendaciones sobre el mejor software para la experiencia del cliente en restaurantes",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "レストラン向けお客様体験ソフトウェアのおすすめ",
+          "lastEdited": 1791970139060,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "gUqM7LrfF": {
+      "type": "formattedText",
+      "value": "<p dir=\"ltr\">Why not let technology take care of the monotonous tasks so that staffs can focus on the high-value interactions that truly define hospitality?</p><p dir=\"ltr\">Here are 3 of our recommendations for the best software you can use:</p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Momos</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/uI2CFk47CZUniWtXedrydnwUfxA.png\"><p dir=\"ltr\"><strong>What it is</strong>: <a href=\"/archives/old-home\" target=\"_blank\"><strong>Momos</strong></a> is a comprehensive guest experience platform that empowers your team to deliver customer service 24/7 with AI, see guest experience analytics, and launch local marketing campaigns.</p><p dir=\"ltr\"><strong>What Momos does:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Unify reviews across all locations and review platforms in one place.</p></li><li data-preset-tag=\"p\"><p>Leverage AI to understand those reviews and see what guests think about your restaurant.</p></li><li data-preset-tag=\"p\"><p>Respond to every single customer with deep personalization, all while maintaining a consistent brand voice.</p></li><li data-preset-tag=\"p\"><p>Build dashboards to show guest experience and operational excellence insights</p></li><li data-preset-tag=\"p\"><p>Send surveys for customers to leave 5-star reviews as effortlessly as possible. More reviews mean better SEO rankings, which ultimately drives more revenue.</p></li></ul><p dir=\"ltr\"><strong>Pricing</strong>: <a href=\"/get-started-new\" target=\"_blank\">Custom pricing</a> depending on your feature needs and the number of your restaurant locations</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Ovation</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/1qvKKPwKGjyJVI7Or0OVdcNNMtM.png\"><p dir=\"ltr\"><br>Ovation is another great restaurant guest feedback and reputation platform. It’s designed to help restaurants capture guest sentiment while the experience is still fresh so that issues can be resolved before they turn into bad reviews.</p><p dir=\"ltr\"><strong>What Ovation does:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Ovation lets restaurants collect real-time guest feedback via SMS, QR codes, online ordering platforms, and many other integrated channels.</p></li><li data-preset-tag=\"p\"><p>Negative feedback is flagged immediately so managers can intervene while the guest still has a chance to be won back.</p></li><li data-preset-tag=\"p\"><p>Positive experiences can be routed toward public review sites to help generate more 5-star reviews.</p></li></ul><p dir=\"ltr\"><strong>Pricing</strong>: Custom</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Tattle</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/QG4XrDuqeUXVcAzexNQlbKiUo.png\"><p dir=\"ltr\">Tattle is a customer feedback and reputation management platform aimed mainly at restaurants and hospitality businesses.</p><p dir=\"ltr\">What Tattle does:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>See all your customer reviews from Google, Yelp, delivery sites, etc., in one place</p></li><li data-preset-tag=\"p\"><p>Reply to reviews quickly from the Tattle dashboard without logging into many different sites.</p></li><li data-preset-tag=\"p\"><p>Collect private feedback from guests through surveys sent after transactions.</p></li></ul><p dir=\"auto\"><strong>Pricing</strong>: Tattle’s pricing isn’t publicly shown; you have to contact the company for a quote.</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"ltr\">Pourquoi ne pas laisser la technologie s'occuper des tu00e2ches monotones afin que le personnel puisse se concentrer sur les interactions u00e0 haute valeur ajoutu00e9e qui du00e9finissent vu00e9ritablement l'hospitalitu00e9?</p><p dir=\"ltr\">Voici 3 de nos recommandations pour les meilleurs logiciels que vous pouvez utiliseru00a0:</p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Momos</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/uI2CFk47CZUniWtXedrydnwUfxA.png\"><p dir=\"ltr\"><strong>Ce que c'est</strong> : <a href=\"/archives/old-home\" target=\"_blank\"><strong>Momos</strong></a> est une plateforme complu00e8te d'expu00e9rience client qui permet u00e0 votre u00e9quipe d'offrir un service u00e0 la clientu00e8le 24 heures sur 24, 7 jours sur 7 gru00e2ce u00e0 l'IA, de consulter les analyses d'expu00e9rience client et de lancer des campagnes de marketing local.</p><p dir=\"ltr\"><strong>Ce que fait Momos :</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Centraliser les avis de tous les emplacements et de toutes les plateformes d'avis en un seul endroit.</p></li><li data-preset-tag=\"p\"><p>Tirer parti de l'IA pour comprendre ces avis et voir ce que les clients pensent de votre restaurant.</p></li><li data-preset-tag=\"p\"><p>Ru00e9pondre u00e0 chaque client avec une personnalisation poussu00e9e, tout en maintenant une image de marque cohu00e9rente.</p></li><li data-preset-tag=\"p\"><p>Cru00e9er des tableaux de bord pour afficher des informations sur l'expu00e9rience client et l'excellence opu00e9rationnelle.</p></li><li data-preset-tag=\"p\"><p>Envoyer des sondages aux clients pour qu'ils laissent des avis 5 u00e9toiles le plus simplement possible. Plus d'avis signifie un meilleur ru00e9fu00e9rencement (SEO), ce qui gu00e9nu00e8re ultimement plus de revenus.</p></li></ul><p dir=\"ltr\"><strong>Tarif</strong>u00a0: <a href=\"/get-started-new\" target=\"_blank\">Tarification personnalisu00e9e</a> en fonction de vos besoins en fonctionnalitu00e9s et du nombre d'emplacements de votre restaurant</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Ovation</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/1qvKKPwKGjyJVI7Or0OVdcNNMtM.png\"><p dir=\"ltr\"><br>Ovation est une autre excellente plateforme de commentaires clients et de gestion de la ru00e9putation pour les restaurants. Elle est conu00e7ue pour aider les restaurants u00e0 recueillir l'opinion des clients pendant que l'expu00e9rience est encore frau00eeche dans leur esprit, afin que les problu00e8mes puissent u00eatre ru00e9solus avant qu'ils ne se transforment en mauvais avis.</p><p dir=\"ltr\"><strong>Ce que fait Ovation :</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Ovation permet aux restaurants de recueillir les commentaires des clients en temps ru00e9el par SMS, codes QR, plateformes de commande en ligne et plusieurs autres canaux intu00e9gru00e9s.</p></li><li data-preset-tag=\"p\"><p>Les commentaires nu00e9gatifs sont signalu00e9s immu00e9diatement afin que les gu00e9rants puissent intervenir pendant qu'il est encore temps de reconquu00e9rir le client.</p></li><li data-preset-tag=\"p\"><p>Les expu00e9riences positives peuvent u00eatre redirigu00e9es vers des sites d'avis publics afin de gu00e9nu00e9rer davantage d'avis 5 u00e9toiles.</p></li></ul><p dir=\"ltr\"><strong>Tarif</strong>u00a0: Personnalisu00e9</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Tattle</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/QG4XrDuqeUXVcAzexNQlbKiUo.png\"><p dir=\"ltr\">Tattle est une plateforme de gestion des commentaires clients et de la ru00e9putation destinu00e9e principalement aux entreprises de la restauration et de l'hu00f4tellerie.</p><p dir=\"ltr\">Ce que fait Tattle :</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Visualiser tous les avis de vos clients provenant de Google, Yelp, de sites de livraison, etc., en un seul endroit.</p></li><li data-preset-tag=\"p\"><p>Ru00e9pondre rapidement aux avis depuis le tableau de bord de Tattle sans avoir u00e0 se connecter u00e0 de nombreux sites diffu00e9rents.</p></li><li data-preset-tag=\"p\"><p>Recueillir de maniu00e8re privu00e9e les commentaires des clients gru00e2ce u00e0 des sondages envoyu00e9s apru00e8s les transactions.</p></li></ul><p dir=\"auto\"><strong>Tarif</strong>u00a0: Les tarifs de Tattle ne sont pas affichu00e9s publiquement; vous devez contacter l'entreprise pour obtenir une soumission.</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"ltr\">¿Por qué no dejar que la tecnología se encargue de las tareas monótonas para que el personal pueda centrarse en las interacciones de gran valor que realmente definen la hospitalidad?</p><p dir=\"ltr\">Aquí tienes 3 de nuestras recomendaciones sobre el mejor software que puedes utilizar:</p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Momos</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/uI2CFk47CZUniWtXedrydnwUfxA.png\"><p dir=\"ltr\"><strong>Qué es</strong>: <a href=\"/archives/old-home\" target=\"_blank\"><strong>Momos</strong></a> es una plataforma integral de experiencia del cliente que permite a tu equipo ofrecer un servicio de atención al cliente las 24 horas del día, los 7 días de la semana con IA, consultar análisis de la experiencia del cliente y lanzar campañas de marketing locales.</p><p dir=\"ltr\"><strong>Qué hace Momos:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Unificar las reseñas de todos los establecimientos y plataformas de opinión en un solo lugar.</p></li><li data-preset-tag=\"p\"><p>Aprovechar la IA para comprender esas opiniones y ver qué piensan los clientes sobre tu restaurante.</p></li><li data-preset-tag=\"p\"><p>Responder a cada cliente con una profunda personalización, manteniendo al mismo tiempo una voz de marca coherente.</p></li><li data-preset-tag=\"p\"><p>Crear paneles para mostrar datos sobre la experiencia del cliente y la excelencia operativa.</p></li><li data-preset-tag=\"p\"><p>Enviar encuestas para que los clientes dejen reseñas de 5 estrellas con la mayor facilidad posible. Más reseñas significan un mejor posicionamiento SEO, lo que en última instancia genera más ingresos.</p></li></ul><p dir=\"ltr\"><strong>Precios</strong>: <a href=\"/get-started-new\" target=\"_blank\">Precios personalizados</a> según tus necesidades de funciones y el número de establecimientos de tu restaurante.</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Ovation</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/1qvKKPwKGjyJVI7Or0OVdcNNMtM.png\"><p dir=\"ltr\"><br>Ovation es otra excelente plataforma de reputación y comentarios de clientes para restaurantes. Está diseñada para ayudar a los restaurantes a captar las impresiones de los clientes mientras la experiencia aún está reciente, de modo que los problemas puedan resolverse antes de que se conviertan en malas críticas.</p><p dir=\"ltr\"><strong>Qué hace Ovation:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Ovation permite a los restaurantes recopilar comentarios de los clientes en tiempo real a través de SMS, códigos QR, plataformas de pedidos en línea y muchos otros canales integrados.</p></li><li data-preset-tag=\"p\"><p>Los comentarios negativos se marcan de inmediato para que los gerentes puedan intervenir mientras aún exista la oportunidad de recuperar al cliente.</p></li><li data-preset-tag=\"p\"><p>Las experiencias positivas pueden redirigirse hacia sitios de reseñas públicas para ayudar a generar más opiniones de 5 estrellas.</p></li></ul><p dir=\"ltr\"><strong>Precios</strong>: Personalizado</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Tattle</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/QG4XrDuqeUXVcAzexNQlbKiUo.png\"><p dir=\"ltr\">Tattle es una plataforma de comentarios de clientes y gestión de la reputación dirigida principalmente a empresas de restauración y hostelería.</p><p dir=\"ltr\">Qué hace Tattle:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Ver todas las reseñas de tus clientes de Google, Yelp, sitios de entrega a domicilio, etc., en un solo lugar.</p></li><li data-preset-tag=\"p\"><p>Responder a las opiniones rápidamente desde el panel de Tattle sin tener que iniciar sesión en muchos sitios diferentes.</p></li><li data-preset-tag=\"p\"><p>Recopilar comentarios privados de los clientes a través de encuestas enviadas después de las transacciones.</p></li></ul><p dir=\"auto\"><strong>Precios</strong>: Los precios de Tattle no se muestran públicamente; debes ponerte en contacto con la empresa para obtener un presupuesto.</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"ltr\">単調な定型業務はテクノロジーに任せて、スタッフの皆様は、本来のおもてなしに欠かせない付加価値の高い顧客対応に集中しませんか？</p><p dir=\"ltr\">本稿では、ぜひ導入をご検討いただきたいおすすめのツールを3つ厳選してご紹介します。</p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Momos</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/uI2CFk47CZUniWtXedrydnwUfxA.png\"><p dir=\"ltr\"><strong>概要</strong>：<a href=\"/archives/old-home\" target=\"_blank\"><strong>Momos</strong></a>は、AIを活用した24時間365日のカスタマーサポート、顧客体験（GX）分析、ローカルマーケティング施策の実施などを可能にする、包括的な顧客体験管理プラットフォームです。</p><p dir=\"ltr\"><strong>主な機能・特徴：</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>すべての店舗と各種レビューサイトの口コミを1つのダッシュボードに集約できます。</p></li><li data-preset-tag=\"p\"><p>AIを活用してクチコミを分析し、お客様が店舗に対してどのような印象を抱いているかを可視化します。</p></li><li data-preset-tag=\"p\"><p>ブランドのトーン＆マナーを維持しながら、個々のお客様に合わせた最適な返信を迅速に作成できます。</p></li><li data-preset-tag=\"p\"><p>ダッシュボードを作成し、顧客体験や店舗運営の改善に役立つインサイトを可視化します。</p></li><li data-preset-tag=\"p\"><p>アンケートを手軽に配信し、高評価（星5）レビューの獲得を促進できます。レビュー件数の増加はSEO対策に繋がり、最終的な売上アップへと導きます。</p></li></ul><p dir=\"ltr\"><strong>料金</strong>：ご利用になる機能や店舗数に応じた<a href=\"/get-started-new\" target=\"_blank\">個別見積もり</a></p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Ovation</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/1qvKKPwKGjyJVI7Or0OVdcNNMtM.png\"><p dir=\"ltr\"><br>Ovationも、飲食業界で高い評価を得ている顧客フィードバックおよび評判管理プラットフォームです。お客様の記憶が新しいうちにその場で意見や感想を吸い上げ、低評価なクチコミとして書き込まれる前に迅速に問題を解決できるよう設計されています。</p><p dir=\"ltr\"><strong>主な機能・特徴：</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>SMS、QRコード、オンライン注文プラットフォーム、その他多数の連携チャネルを通じて、お客様からのリアルタイムなフィードバックを収集できます。</p></li><li data-preset-tag=\"p\"><p>ネガティブなフィードバックが入力されるとすぐに検知されるため、お客様が退店される前、あるいは関係を修復できるタイミングで、店長やマネージャーが迅速に対応できます。</p></li><li data-preset-tag=\"p\"><p>ポジティブな体験をしたお客様を主要なレビューサイトへ誘導し、高評価レビューの獲得を促します。</p></li></ul><p dir=\"ltr\"><strong>料金</strong>：個別見積もり</p><p dir=\"auto\"><br class=\"trailing-break\"></p><ol dir=\"auto\"><li data-preset-tag=\"h4\"><h4>Tattle</h4></li></ol><img alt=\"\" src=\"https://framerusercontent.com/images/QG4XrDuqeUXVcAzexNQlbKiUo.png\"><p dir=\"ltr\">Tattleは、主に飲食店やサービス業向けに開発された顧客フィードバックおよび評判管理プラットフォームです。</p><p dir=\"ltr\">主な機能・特徴：</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Google、Yelp、デリバリーサービスなどに寄せられたユーザーレビューを1ヶ所でまとめて確認できます。</p></li><li data-preset-tag=\"p\"><p>複数のサイトに個別にログインすることなく、Tattleの管理画面から迅速にレビューに返信できます。</p></li><li data-preset-tag=\"p\"><p>お会計後にアンケートを配信し、非公開の形で顧客フィードバックを直接回収できます。</p></li></ul><p dir=\"auto\"><strong>料金</strong>：料金プランは公開されていません。詳細な見積もりについては、直接お問い合わせいただく必要があります。</p>",
+          "lastEdited": 1791970139153,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "XMCRXWJWx": {
+      "type": "string",
+      "value": "How Momos Helps Mega-enterprises Manage Their Reviews And Guest Experience",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "Comment Momos aide les méga-entreprises à gérer leurs avis et l'expérience client",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "Cómo ayuda Momos a las megaempresas a gestionar sus reseñas y la experiencia de los clientes",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "大企業様におけるクチコミ返信と顧客体験マネジメントを、Momosがどのように支援しているかご紹介します",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "rSxHrCKAA": {
+      "type": "formattedText",
+      "value": "<p dir=\"auto\"><a href=\"https://momos.com/\" target=\"_blank\">Momos</a> has been helping restaurant enterprises and mega-enterprise scale their customer support without having to hire more team members.</p><p dir=\"auto\">Let's see how Papa Murphy's did that with the help of Momos:</p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "<p dir=\"auto\"><a href=\"https://momos.com/\" target=\"_blank\">Momos</a> aide les entreprises de restauration et les méga-entreprises à intensifier leur service de soutien à la clientèle sans avoir à embaucher de nouveaux membres dans leur équipe.</p><p dir=\"auto\">Voyons comment Papa Murphy's y est parvenu avec l'aide de Momos&nbsp;:</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "<p dir=\"auto\"><a href=\"https://momos.com/\" target=\"_blank\">Momos</a> ha estado ayudando a empresas de restauración y de gran envergadura a escalar su servicio de atención al cliente sin tener que contratar a más miembros en su equipo.</p><p dir=\"auto\">Veamos cómo lo logró Papa Murphy's con la ayuda de Momos:</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "<p dir=\"auto\"><a href=\"https://momos.com/\" target=\"_blank\">Momos</a>は、飲食チェーンや大手外食企業様が人員を増やすことなく、カスタマーサポートの規模を拡大できるよう支援してまいりました。</p><p dir=\"auto\">実際にPapa Murphy's様がMomosを活用し、どのように体制を拡大されたのか、その事例をご紹介します。</p>",
+          "lastEdited": 1791970139117,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "G54YpK9_v": {
+      "type": "string",
+      "value": "v",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "value": "v",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        },
+        "AWv79oLAE": {
+          "value": "v",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        },
+        "FBJ0IxnqI": {
+          "value": "v",
+          "lastEdited": 1791970139061,
+          "readonly": false,
+          "status": "done"
+        }
+      }
+    },
+    "yJwg6NC8Z": {
+      "type": "formattedText",
+      "value": "<p dir=\"auto\"><br class=\"trailing-break\"></p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "BRc5Vta2X": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "GVMEjYTVH": {
+      "type": "formattedText",
+      "value": "<p dir=\"auto\"><br class=\"trailing-break\"></p>",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "nSyR8_nd9": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "wKS4ykzHH": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "gvxGYxva_": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "dOcD_s8vm": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "KF1vfy_fS": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "CSxrIRSAI": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "wtKC9Bipu": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "gUaOIDGwd": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "mbT2eg8EX": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "FnCtPoLc3": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "WZkWeAfR4": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "dd7Yk7ssi": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "JUuF0XyfS": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "LKZTrmfAL": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "g253myYiZ": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "Sg3kAcfc7": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "Kd20rHnFH": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "aYqTTSu5C": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "wsHBqw1BN": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "XUPgFywPi": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "HIbdvyusH": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "bf6Dex4w7": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "vgnmaoTmw": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "NqUG60jIh": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "hG0hCW5vS": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "JcCAmcfQe": {
+      "type": "formattedText",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    },
+    "R_7lgx1sM": {
+      "type": "string",
+      "value": "",
+      "valueByLocale": {
+        "ZK081OG4q": {
+          "status": "new",
+          "value": null
+        },
+        "AWv79oLAE": {
+          "status": "new",
+          "value": null
+        },
+        "FBJ0IxnqI": {
+          "status": "new",
+          "value": null
+        }
+      }
+    }
+  }
+}
