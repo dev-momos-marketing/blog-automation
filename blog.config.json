@@ -1,0 +1,11 @@
+{
+  "collection": "Blog",
+  "fields": {
+    "title": "Title",
+    "body": "Content",
+    "excerpt": "Excerpt",
+    "date": "Date",
+    "cover": "Image",
+    "category": "Category"
+  }
+}
