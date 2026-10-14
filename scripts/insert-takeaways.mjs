@@ -158,7 +158,18 @@ try {
     }
 
     // Re-reads the post and checks every moved section and its translations landed one slot down.
-    async function verify(itemId, before, bullets) {
+    // Reads straight after a write can be stale for a few seconds, so it retries before failing.
+    async function verify(itemId, before, bullets, attempt = 1) {
+        try {
+            await check(itemId, before, bullets)
+        } catch (error) {
+            if (attempt >= 4) throw error
+            await new Promise(resolve => setTimeout(resolve, 3000 * attempt))
+            await verify(itemId, before, bullets, attempt + 1)
+        }
+    }
+
+    async function check(itemId, before, bullets) {
         const after = await findItem(itemId)
         const problems = []
         for (let n = last; n > INSERT_AT; n--) {
