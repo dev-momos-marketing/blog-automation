@@ -70,7 +70,7 @@ try {
             await writeFile(path.join(backupDir, `${item.slug}.json`), JSON.stringify({ id: item.id, slug: item.slug, fieldData: item.fieldData }, null, 2))
             try {
                 const value = (item.fieldData[intro.id]?.value ?? "") + takeawaysHtml(bullets)
-                await item.setAttributes({ fieldData: { [intro.id]: entry(intro, value) } })
+                await save(item, { [intro.id]: entry(intro, value) })
                 await verify(item.id, item.fieldData, bullets)
             } catch (error) {
                 console.error(`  ${item.slug} failed: ${error.message}\n  Restoring it from the backup.`)
@@ -100,7 +100,7 @@ try {
         try {
             await check(itemId, before, bullets)
         } catch (error) {
-            if (attempt >= 4) throw error
+            if (attempt >= 5) throw error
             await new Promise(resolve => setTimeout(resolve, 3000 * attempt))
             await verify(itemId, before, bullets, attempt + 1)
         }
@@ -117,7 +117,7 @@ try {
         if (!plain(text).startsWith(plain(before[intro.id]?.value ?? ""))) problems.push("Section 1's intro text changed")
         for (const f of sectionFields.filter(f => f !== intro)) {
             const a = after.fieldData[f.id], b = before[f.id]
-            if ((a?.value ?? "") !== (b?.value ?? "")) problems.push(`${f.name} changed`)
+            if (blank(a?.value) !== blank(b?.value)) problems.push(`${f.name} changed`)
             for (const [locale, v] of Object.entries(b?.valueByLocale ?? {})) {
                 if ((a?.valueByLocale?.[locale]?.value ?? null) !== (v.value ?? null)) problems.push(`${f.name} [${locale}] changed`)
             }
@@ -133,10 +133,10 @@ try {
         const translations = new Map()
         for (const f of sectionFields) {
             const value = backupFieldData[f.id]?.value ?? ""
-            if (value !== (item.fieldData[f.id]?.value ?? "")) update[f.id] = entry(f, value)
+            if (blank(value) !== blank(item.fieldData[f.id]?.value)) update[f.id] = entry(f, value)
             if (!sameTranslations(backupFieldData[f.id], item.fieldData[f.id])) translations.set(f.name, localeUpdate(backupFieldData[f.id], item.fieldData[f.id]))
         }
-        if (Object.keys(update).length) await item.setAttributes({ fieldData: update })
+        if (Object.keys(update).length) await save(item, update)
         await applyTranslations(itemId, translations)
     }
 
@@ -164,7 +164,7 @@ try {
         if (textFields.length !== textSources.length) throw new Error(`${textFields.length} text fields but ${textSources.length} translation sources`)
         const valuesBySource = {}
         textFields.forEach((f, k) => {
-            if ((textSources[k].value ?? "") !== (item.fieldData[f.id]?.value ?? "")) throw new Error(`translation source for ${f.name} doesn't match its English text`)
+            if (blank(textSources[k].value) !== blank(item.fieldData[f.id]?.value)) throw new Error(`translation source for ${f.name} doesn't match its English text`)
             if (translations.has(f.name)) valuesBySource[textSources[k].id] = translations.get(f.name)
         })
         const result = await framer.setLocalizationData({ valuesBySource })
@@ -177,6 +177,24 @@ try {
 function takeawaysHtml(bullets) {
     const items = bullets.map(b => `<li data-preset-tag="p"><p>${escapeHtml(b)}</p></li>`).join("")
     return `<h3>${TITLE}</h3><ul dir="auto">${items}</ul>`
+}
+
+// While two Blog posts share a translated slug, Framer rejects writes to the collection with
+// "Duplicate slugs found in locale ...", sometimes after partly saving. Fix those slugs in Framer first.
+async function save(item, fieldData) {
+    try {
+        await item.setAttributes({ fieldData })
+    } catch (error) {
+        if (/^Duplicate slugs found in locale/.test(error.message)) {
+            error.message += "\n  Some Blog posts share a translated slug. Make them unique in Framer (CMS → the post → its French/Spanish/Japanese slug), then re-run."
+        }
+        throw error
+    }
+}
+
+// Framer stores an emptied rich-text field as a blank paragraph, so treat that the same as "".
+function blank(value) {
+    return (value ?? "").replace(/^<p dir="auto"><br class="trailing-break"><\/p>$/, "")
 }
 
 function entry(field, value) {
