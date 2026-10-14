@@ -71,7 +71,7 @@ try {
             try {
                 const value = (item.fieldData[intro.id]?.value ?? "") + takeawaysHtml(bullets)
                 await save(item, { [intro.id]: entry(intro, value) })
-                await verify(item.id, item.fieldData, bullets)
+                await verify(item.id, item.fieldData, bullets, item.draft)
             } catch (error) {
                 console.error(`  ${item.slug} failed: ${error.message}\n  Restoring it from the backup.`)
                 await restoreItem(item.id, item.fieldData)
@@ -96,17 +96,17 @@ try {
 
     // Re-reads the post: Section 1 ends with the takeaways, and every other section and translation is untouched.
     // Reads straight after a write can be stale for a few seconds, so it retries before failing.
-    async function verify(itemId, before, bullets, attempt = 1) {
+    async function verify(itemId, before, bullets, wasDraft, attempt = 1) {
         try {
-            await check(itemId, before, bullets)
+            await check(itemId, before, bullets, wasDraft)
         } catch (error) {
             if (attempt >= 5) throw error
             await new Promise(resolve => setTimeout(resolve, 3000 * attempt))
-            await verify(itemId, before, bullets, attempt + 1)
+            await verify(itemId, before, bullets, wasDraft, attempt + 1)
         }
     }
 
-    async function check(itemId, before, bullets) {
+    async function check(itemId, before, bullets, wasDraft) {
         const after = await findItem(itemId)
         const problems = []
         const text = after.fieldData[intro.id]?.value ?? ""
@@ -122,7 +122,7 @@ try {
                 if ((a?.valueByLocale?.[locale]?.value ?? null) !== (v.value ?? null)) problems.push(`${f.name} [${locale}] changed`)
             }
         }
-        if (after.draft !== before.draft) problems.push("draft status changed")
+        if (after.draft !== wasDraft) problems.push("draft status changed")
         if (problems.length) throw new Error(`verification failed:\n    ${problems.slice(0, 10).join("\n    ")}`)
     }
 
