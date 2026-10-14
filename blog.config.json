@@ -2,10 +2,13 @@
   "collection": "Blog",
   "fields": {
     "title": "Title",
-    "body": "Content",
-    "excerpt": "Excerpt",
-    "date": "Date",
-    "cover": "Image",
-    "category": "Category"
+    "body": "Section 1",
+    "excerpt": "Description",
+    "date": "Publish",
+    "updated": "Updated By",
+    "cover": "Banner",
+    "category": "Tags",
+    "author": "Author Name",
+    "featured": "Featured"
   }
 }
